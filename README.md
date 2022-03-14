@@ -30,7 +30,7 @@
 
 <p>In <code>InprocServer32</code> double click the <code>Default</code> key.</p>
 
-<p>Leave the <b><i>Value</i></b> blank and click <b>OK</b>.</p>
+<p>Leave the <b><i>Value data</i></b> blank and click <b>OK</b>.</p>
 
 ![reg5](https://user-images.githubusercontent.com/101452307/158207279-7191628c-a0a8-46f0-b8f8-db94b3323315.png)
 
