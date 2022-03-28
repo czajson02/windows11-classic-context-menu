@@ -2,7 +2,7 @@
 <h2>Bring back old context menu (rightclick menu) in Windows 11</h2>
 <hr>
 
-<h3>New Windows 11 context menu</h3>
+<h3>New Windows 11 context menu:</h3>
 
 ![default](https://user-images.githubusercontent.com/101452307/158204636-368b1878-7569-435a-b347-4b5a5be79a27.png)
 
