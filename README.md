@@ -42,6 +42,7 @@
 
 ![patched](https://user-images.githubusercontent.com/101452307/158208040-5e87e93b-4d2e-4623-b6fe-8629580c4190.png)
 
+<p>All in One Windows 11 Tewaks release in October</p>
 
 <hr>
 <h4><code>win11_classic_context_menu.reg</code> file will do this all for you.</h4>
